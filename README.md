@@ -36,7 +36,7 @@
 #### Usage
 1. **Data Import:** Instructions on how to import or access the dataset.
 2. **Queries:** Explanation of the SQL queries included in the project.
-3. **Analysis:** Instruct
+3. **Analysis:** 
 
 
 
